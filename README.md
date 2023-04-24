@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Add simple-utilities.md Docs page (#8269)
