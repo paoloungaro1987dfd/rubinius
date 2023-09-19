@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
