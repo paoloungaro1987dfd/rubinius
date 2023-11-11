@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
