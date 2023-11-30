@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Expand Model method type hinting (#8279)
