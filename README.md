@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
