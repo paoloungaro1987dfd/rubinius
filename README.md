@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Avoid creating -hub dir without processing images (#8334)
