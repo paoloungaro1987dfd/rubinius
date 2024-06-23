@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Add quantization support to TensorFlow.js converter (#7008)
