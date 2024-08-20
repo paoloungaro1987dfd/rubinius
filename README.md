@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Update Discord and Contributing Guide URLs (#9270)
