@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
